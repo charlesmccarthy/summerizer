@@ -31,7 +31,7 @@ export OPENAI_API_KEY='your-api-key'
 
 export REPLICATE_API_TOKEN='your-api-key'
 
-2. Run the script with a YouTube URL:
+3. Run the script with a YouTube URL:
 python script_name.py --url 'your-video-url'
 
 ## Example
