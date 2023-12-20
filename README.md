@@ -1,6 +1,6 @@
 **YouTube Video Summerizer**
 
-**BE SURE TO SET YOUR OPENAI_KEY AND REPLICATE_TOKEN env variables**
+**‼️BE SURE TO SET YOUR OPENAI_KEY AND REPLICATE_TOKEN env variables‼️**
 
 export OPENAI_API_KEY="Your Key"
 
