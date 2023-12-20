@@ -27,6 +27,10 @@ pip install replicate openai
 
 export OPENAI_API_KEY='your-api-key'
 
+2. Set your Replicate API key as an environment variable:
+
+export REPLICATE_API_TOKEN='your-api-key'
+
 2. Run the script with a YouTube URL:
 python script_name.py --url 'your-video-url'
 
